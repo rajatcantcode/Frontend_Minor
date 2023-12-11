@@ -1,14 +1,14 @@
 @font-face {
   font-family: Gilroylight;
-  src: url(/Gilroy-Font/Gilroy-Light.ttf);
+  src: url(./Gilroy-Font/Gilroy-Light.ttf);
 }
 @font-face {
   font-family: monument;
-  src: url(/Monument-Font/MonumentExtended-Ultrabold.otf);
+  src: url(./Monument-Font/MonumentExtended-Ultrabold.otf);
 }
 @font-face {
   font-family: GilroyDark;
-  src: url(/Gilroy-Font/Gilroy-SemiBold.ttf);
+  src: url(./Gilroy-Font/Gilroy-SemiBold.ttf);
 }
 * {
   margin: 0;
